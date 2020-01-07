@@ -1,0 +1,13 @@
+Name = Spreet
+
+R:127
+G:106
+B:0
+
+~Speed=Medium
+~Health=Tanky
+~Bullet Speed=Fast
+~Fire Rate=Medium
+~Direction=Bottom-Top
+~Amount Spawned=3
+~Formation=Triangle

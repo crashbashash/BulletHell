@@ -1,0 +1,20 @@
+Name: S.spirit
+
+R:64
+G:64
+B:64
+
+~Speed=fast
+~Health=light
+~Bullet Speed=quick
+~fire rate=1
+~ammount spawned=3
+~formation=triangle
+
+~Direction=right
+- front=exit to the left
+- back bottom=exit downwards
+- back top=exit upwards
+
+
+Start shooting when formation is made, keep shooting until unit destroyed
